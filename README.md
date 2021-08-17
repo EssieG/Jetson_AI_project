@@ -9,14 +9,21 @@ Inside the data folder are the categories for classfication, as well as a valida
 
 The main Jupyter notebook explains the steps for training and validation clearly. For an overview, see the video.
 
-File structure:
-code -> main.py
-     -> utils.py
-     -> dataset.py
-wander_A-> walking_L
-        -> walking_R
-        -> running_L
-        -> running_R
-        -> standing
-        -> validation
+File structure: <br/> 
+code
+<ul> 
+     <li>main.py <br/> </li>
+     <li>utils.py <br/> </li>
+     <li>dataset.py <br/> </li>
+</ul>
+wander_A 
+<ul>
+       <li>walking_L  <br/> </li> 
+       <li>walking_R <br/> </li>
+       <li>running_L <br/> </li>
+       <li>running_R <br/> </li>
+       <li>standing <br/> </li>
+       <li>validation <br/> </li>
+</ul>
+motion_model.pth 
 
