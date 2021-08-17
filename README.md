@@ -7,7 +7,7 @@ The dataset in the data/ folder consists of a sample of my training data of me p
 
 Inside the data folder are the categories for classfication, as well as a validation set of images. The validation images include 5 from each category, for a total of 25 images. The model succeeds on 23/25 of the validation images for the default model run with 5 epochs. Training images ~165 per category.
 
-The main Jupyter notebook explains the steps for training and validation clearly. For an overview, see the video.
+The main Jupyter notebook explains the steps for training and validation clearly. For an overview, see the video: https://youtu.be/4a3jqjonGAM.
 
 File structure: <br/> 
 code
