@@ -1,7 +1,7 @@
 # Jetson_AI_project
 This is my Jetson AI Certificate project, which classifies my movements for a mobile robot as walking, running, or standing.
 
-Classifying the type of movement a human is using and what direction they are going could be a useful tool for a mobile robot. Knowing the trajectory, allows the robot to consider if it will collide with the human, and knowing the movement allows the robot to gauge the human's speed.
+Classifying the type of movement a human is using and what direction they are going could be a useful tool for a mobile robot. Knowing the trajectory allows the robot to consider if it will collide with the human, and knowing the movement allows the robot to gauge the human's speed.
 
 The dataset in the data/ folder consists of a sample of my training data of me performing three movements - walking, running, and standing in the library. For a more robust model, many more training images could be included, using different humans, backgrounds, lighting, etc. The labels are discrete, so the code utilizes pytorch for classification. A robust datset that included the speeds of the humans pictured could be used in a regression-type model to predict the speed the human is walking or running.
 
